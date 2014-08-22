@@ -18,4 +18,4 @@ after_script:
 - PATH=/home/travis/virtualenv/python2.7.8/bin/:$PATH travis-deploy.py
 env:
   global:
-    secure: BhPr16UGCKwb8ewozYfYQfizG3fWkPkgLNUxXPSYGvIAhLZChyyfOxnwUaw527fQ0ksoFs4KBP5sN+M6vUkB9nCL9f/JEnzQvWK8PzKmZu6nz9EAnrK3kv1R1MeqyheMiGqI47GG8XHaIiHUrhfkI+Ftyk47e3IXQkWQtoB/Pv0=
+    secure: luN/92U/78ctyDvFMNyW55qzABHWpTLgQkDx4Tz5OE0a8kVT+U8cbhtTFTk+XnqvwrWTmFjZezFIsAwK4M+5YSWz2t/oc77qTocVeSPJq6P6DCnP2d8L2OvH12DXlA3wAypyJE/AQ/25+si6a4m+0/8Q/RzSE89F8tMsFi/BBIo=
