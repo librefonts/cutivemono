@@ -1,0 +1,32 @@
+{
+  "name": "Cutive Mono",
+  "designer": "Vernon Adams",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Monospace",
+  "size": 35212,
+  "fonts": [
+    {
+      "name": "Cutive Mono",
+      "style": "normal",
+      "weight": 400,
+      "filename": "CutiveMono-Regular.ttf",
+      "postScriptName": "CutiveMono-Regular",
+      "fullName": "Cutive Mono",
+      "copyright": "Copyright (c) 2012, vernon adams (vern@newtypography.co.uk), with Reserved Font Names 'Cutive'."
+    },
+    {
+      "name": "Cutive Mono",
+      "style": "normal",
+      "weight": 400,
+      "filename": "CutiveMono-Regular-TTF.ttf",
+      "postScriptName": "CutiveMono-Regular",
+      "fullName": "Cutive Mono",
+      "copyright": "Copyright (c) 2012, vernon adams (vern@newtypography.co.uk), with Reserved Font Names 'Cutive'."
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2012-10-26"
+}
